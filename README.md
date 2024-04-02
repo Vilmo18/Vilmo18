@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm Yvan Carré, my background is in Computer Science and now I'm doing a master degree at AIMS SOUTH AFRICA also I'm a passionate solution seekers based in AIMS SA. I love coding, and I'm constantly exploring new technologies and ideas.
+Hi there! I'm Yvan Carré, my background is in Computer Science and now I'm doing a master degree at AIMS SOUTH AFRICA also I'm a passionate solution seekers. I love coding, and I'm constantly exploring new technologies and ideas.
 
 ## My Interests
 
