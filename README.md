@@ -7,7 +7,7 @@ Hi there! I'm Yvan Carré, my background is in Computer Science and now I'm doin
 ## My Interests
 
 - Artificial Intelligence
-- Optimization Algorithm
+- Natural Language Processing
 - Deep Learning
 
 <!--## My Projects
