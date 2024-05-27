@@ -8,7 +8,7 @@ Hi there! I'm Yvan Carré, my background is in Computer Science and now I'm doin
 
 - Artificial Intelligence
 - Natural Language Processing
-- Deep Learning
+- Computer Vision
 
 <!--## My Projects
 
@@ -20,8 +20,9 @@ Here are some projects I'm currently working on or have contributed to:
 -->
 ## Get in Touch
 
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvan-carr%C3%A9-8230442b1/)
 -  [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carre@aims.ac.za)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvan-carr%C3%A9-8230442b1/)
+-  [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/c_vilmorin)
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
