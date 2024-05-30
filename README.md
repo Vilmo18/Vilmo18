@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm Yvan Carré, my background is in Computer Science and now I'm doing a master degree at AIMS SOUTH AFRICA also I'm a passionate solution seekers. I love coding, and I'm constantly exploring new technologies and ideas.
+Hi there! I'm Yvan Carré, a Google DeepMind Scholar with a background in Computer Science. I'm currently pursuing a master's degree in AI at Stellenbosch University (AIMS South Africa). As a passionate solution seeker, I love coding and am constantly exploring new technologies and ideas.
 
 ## My Interests
 
