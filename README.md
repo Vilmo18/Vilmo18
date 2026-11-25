@@ -7,9 +7,8 @@ Hi there! I'm Yvan Carré, an ex-Google DeepMind Scholar with a background in Co
 ## My Interests
 
 - Artificial Intelligence
-- Computer Vision
-- Natural Language Processing
 - Software Engineering
+- AI agents passionate
 
 <!--## My Projects
 
